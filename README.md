@@ -1,1 +1,1 @@
-## This repsoitory contains all the projects and assignments related to Reinforcement Learning Specialization
+## This Repository Contains All The Projects And Assignments Related To Reinforcement Learning Specialization
